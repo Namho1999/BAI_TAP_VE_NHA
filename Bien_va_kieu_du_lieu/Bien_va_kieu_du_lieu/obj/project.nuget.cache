@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qtAMTKrdbmI=",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\PC Control\\Buoi2\\Buoi2_bien_va_kieu_du_lieu\\Bien_va_kieu_du_lieu\\Bien_va_kieu_du_lieu\\Bien_va_kieu_du_lieu_Bai_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.11\\microsoft.dotnet.ilcompiler.9.0.11.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.11\\microsoft.net.illink.tasks.9.0.11.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.11\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
