@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\PC Control\\BAI_TAP\\BTVN_BUOI_4\\BAI_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC17DF4E-A6E1-4F06-B06A-67DCAD75F544}|..\\BAI_4\\BAI_4.csproj|d:\\desktop\\pc control\\bai_tap\\btvn_buoi_4\\bai_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580C13F-3536-4EBD-9663-CCE036AF3ACD}|..\\BAI_5\\BAI_5.csproj|d:\\desktop\\pc control\\bai_tap\\btvn_buoi_4\\bai_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAD2791-252B-4D43-A074-B24270F6DA79}|..\\BAI_3\\BAI_3.csproj|d:\\desktop\\pc control\\bai_tap\\btvn_buoi_4\\bai_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129AEAC-5FF9-4CB3-8C66-18C505236E63}|..\\BAI_2\\BAI_2.csproj|d:\\desktop\\pc control\\bai_tap\\btvn_buoi_4\\bai_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E37E59-0DB1-4EF2-9ED4-8E24642A31D7}|BAI_1\\BAI_1.csproj|d:\\desktop\\pc control\\bai_tap\\btvn_buoi_4\\bai_1\\bai_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E37E59-0DB1-4EF2-9ED4-8E24642A31D7}|BAI_1\\BAI_1.csproj|solutionrelative:bai_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\PC Control\\BAI_TAP\\BTVN_BUOI_4\\BAI_5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BAI_5\\Program.cs",
+              "ToolTip": "D:\\Desktop\\PC Control\\BAI_TAP\\BTVN_BUOI_4\\BAI_5\\Program.cs",
+              "RelativeToolTip": "..\\BAI_5\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T04:31:02.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\PC Control\\BAI_TAP\\BTVN_BUOI_4\\BAI_4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BAI_4\\Program.cs",
+              "ToolTip": "D:\\Desktop\\PC Control\\BAI_TAP\\BTVN_BUOI_4\\BAI_4\\Program.cs",
+              "RelativeToolTip": "..\\BAI_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T16:26:59.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\PC Control\\BAI_TAP\\BTVN_BUOI_4\\BAI_3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BAI_3\\Program.cs",
+              "ToolTip": "D:\\Desktop\\PC Control\\BAI_TAP\\BTVN_BUOI_4\\BAI_3\\Program.cs",
+              "RelativeToolTip": "..\\BAI_3\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:53:48.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\PC Control\\BAI_TAP\\BTVN_BUOI_4\\BAI_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BAI_2\\Program.cs",
+              "ToolTip": "D:\\Desktop\\PC Control\\BAI_TAP\\BTVN_BUOI_4\\BAI_2\\Program.cs",
+              "RelativeToolTip": "..\\BAI_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:12:29.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\PC Control\\BAI_TAP\\BTVN_BUOI_4\\BAI_1\\BAI_1\\Program.cs",
+              "RelativeDocumentMoniker": "BAI_1\\Program.cs",
+              "ToolTip": "D:\\Desktop\\PC Control\\BAI_TAP\\BTVN_BUOI_4\\BAI_1\\BAI_1\\Program.cs",
+              "RelativeToolTip": "BAI_1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:04:21.881Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

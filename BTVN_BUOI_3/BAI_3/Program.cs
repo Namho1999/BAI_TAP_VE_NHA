@@ -21,7 +21,7 @@
         public static double TinhTienLuong(ref int thoiGianLamViec)
         {
             // Quy đổi phút sang giờ
-            double soGioLamViec = (double)(thoiGianLamViec / MIN_PER_HOUR);
+            double soGioLamViec = (double)thoiGianLamViec / MIN_PER_HOUR;
 
             // Ghi đè và làm tròn số phút sang giờ làm
             thoiGianLamViec = (int)Math.Round(soGioLamViec);

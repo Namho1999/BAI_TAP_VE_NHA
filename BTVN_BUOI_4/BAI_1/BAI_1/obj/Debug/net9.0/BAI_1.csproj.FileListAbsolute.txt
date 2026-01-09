@@ -1,0 +1,15 @@
+D:\Desktop\PC Control\BAI_TAP\BTVN_BUOI_4\BAI_1\BAI_1\bin\Debug\net9.0\BAI_1.exe
+D:\Desktop\PC Control\BAI_TAP\BTVN_BUOI_4\BAI_1\BAI_1\bin\Debug\net9.0\BAI_1.deps.json
+D:\Desktop\PC Control\BAI_TAP\BTVN_BUOI_4\BAI_1\BAI_1\bin\Debug\net9.0\BAI_1.runtimeconfig.json
+D:\Desktop\PC Control\BAI_TAP\BTVN_BUOI_4\BAI_1\BAI_1\bin\Debug\net9.0\BAI_1.dll
+D:\Desktop\PC Control\BAI_TAP\BTVN_BUOI_4\BAI_1\BAI_1\bin\Debug\net9.0\BAI_1.pdb
+D:\Desktop\PC Control\BAI_TAP\BTVN_BUOI_4\BAI_1\BAI_1\obj\Debug\net9.0\BAI_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\PC Control\BAI_TAP\BTVN_BUOI_4\BAI_1\BAI_1\obj\Debug\net9.0\BAI_1.AssemblyInfoInputs.cache
+D:\Desktop\PC Control\BAI_TAP\BTVN_BUOI_4\BAI_1\BAI_1\obj\Debug\net9.0\BAI_1.AssemblyInfo.cs
+D:\Desktop\PC Control\BAI_TAP\BTVN_BUOI_4\BAI_1\BAI_1\obj\Debug\net9.0\BAI_1.csproj.CoreCompileInputs.cache
+D:\Desktop\PC Control\BAI_TAP\BTVN_BUOI_4\BAI_1\BAI_1\obj\Debug\net9.0\BAI_1.sourcelink.json
+D:\Desktop\PC Control\BAI_TAP\BTVN_BUOI_4\BAI_1\BAI_1\obj\Debug\net9.0\BAI_1.dll
+D:\Desktop\PC Control\BAI_TAP\BTVN_BUOI_4\BAI_1\BAI_1\obj\Debug\net9.0\refint\BAI_1.dll
+D:\Desktop\PC Control\BAI_TAP\BTVN_BUOI_4\BAI_1\BAI_1\obj\Debug\net9.0\BAI_1.pdb
+D:\Desktop\PC Control\BAI_TAP\BTVN_BUOI_4\BAI_1\BAI_1\obj\Debug\net9.0\BAI_1.genruntimeconfig.cache
+D:\Desktop\PC Control\BAI_TAP\BTVN_BUOI_4\BAI_1\BAI_1\obj\Debug\net9.0\ref\BAI_1.dll
